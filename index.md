@@ -11,3 +11,7 @@
 $ git init
 Repositório Git vazio inicializado em /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] Step 1
+- [x] Step 2
+- [x] Step 3
+- [x] Step 4
